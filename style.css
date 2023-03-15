@@ -1,0 +1,17 @@
+
+.flexheader {
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+    flex-wrap:wrap;
+}
+li {
+    font-size:40px;
+}
+h1 {
+    font-size:40px;
+}
+
+li {
+    display:inline;
+}
